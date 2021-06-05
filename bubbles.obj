@@ -1,6 +1,6 @@
 # Blender v2.92.0 OBJ File: 'uvsphere.blend'
 # www.blender.org
-mtllib phongtest.mtl
+mtllib bubbles.mtl
 o Sphere
 v -0.109595 0.525736 -0.834865
 v -0.208612 0.510464 -0.822859
